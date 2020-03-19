@@ -1,2 +1,2 @@
-# Privacy-Policy
+# Privacy Policy
 SmallWorld Privacy Policy
