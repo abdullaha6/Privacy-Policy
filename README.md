@@ -1,16 +1,12 @@
-**Privacy Policy**
+# Privacy Policy
 
-Abdullah Ajmal built the Averager app as a Free app. This SERVICE is provided by Abdullah Ajmal at no cost and is intended for use as is.
+Effective date: 2023-06-25
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
-
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
-
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Averager unless otherwise defined in this Privacy Policy.
+Abdullah Ajmal built the Averager app as a free app. This service is provided by Abdullah Ajmal at no cost and is intended for use as is.
 
 **Information Collection and Use**
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+The Averager app does not collect any personally identifiable information or personal data from users.
 
 **Log Data**
 
@@ -31,15 +27,13 @@ I may employ third-party companies and individuals due to the following reasons:
 *   To perform Service-related services; or
 *   To assist us in analyzing how our Service is used.
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
-
 **Security**
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+The app does not collect or store any personal information, so it employs industry-standard security measures to ensure the protection of user data.
 
 **Links to Other Sites**
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+The app does not contain any links to external websites.
 
 **Children’s Privacy**
 
@@ -47,9 +41,7 @@ I do not knowingly collect personally identifiable information from children. I 
 
 **Changes to This Privacy Policy**
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
-
-This policy is effective as of 2023-06-25
+I may update our Privacy Policy from time to time. Any changes or updates to the privacy policy will be notified through the app.
 
 **Contact Us**
 
