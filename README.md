@@ -1,4 +1,4 @@
-**Privacy Policy**
+*Privacy Policy*
 
 Abdullah Ajmal built the Averager app as a Free app. This SERVICE is provided by Abdullah Ajmal at no cost and is intended for use as is.
 
